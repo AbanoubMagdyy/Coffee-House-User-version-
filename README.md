@@ -1,16 +1,13 @@
-# coffee_house
+# Coffee House (User)
+A program for managing a café.
 
-A new Flutter project.
+## Image
+![Google Play Panoramic Screenshots - Samsung S20 - Google Chrome 6_27_2024 7_32_08 PM (2)](https://github.com/AbanoubMagdyy/ss/assets/126911096/1317088e-ca71-49c4-bc3f-eede6147c02b)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### What's inside the app?
+- Buy a drink
+- Find a drink
+- Create a profile
+- Add your favorite drinks
+- Contact support
+- And other features, and the application is still developing
